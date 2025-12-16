@@ -98,3 +98,4 @@ Add your thoughts via Issues!
 Star/Fork to support! Contribute metrics, translations. Share on X/Farcaster: #BaseGratitude2025. Thank you, team and community—for the vision and vibes.
 
 *Built with passion by ukml, on X  @d_zc7e, base app @shazu, on farcaster @shazu,  a learning Base builder* 
+Open for community contribution.
